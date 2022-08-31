@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Is your Software as a Service (SaaS) Product Ready for product-led growth?
-date: 2017-01-04T15:04:10.000Z
+date: 2022-05-03T16:04:10.000Z
 description: Product-led growth (PLG) seems to be the new buzzword in the SaaS
   world today. What does PLG mean and is your company ready for it? In this
   article, I provide my views on PLG based on the key insights from the two
