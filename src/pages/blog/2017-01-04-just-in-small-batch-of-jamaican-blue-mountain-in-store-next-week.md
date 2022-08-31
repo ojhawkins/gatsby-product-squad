@@ -1,34 +1,27 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: So what do Product Managers actually do?
+date: 2020-08-11T16:04:10.000Z
+description: Want to know more about a Product Manager's role? Read the article
+  below to find out!
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/product-manager-role-quote.png
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - ProductManager
+  - ProductManagerRole
 ---
+![](/img/product-manager-role-quote.png)
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+The role of a product manager can be different across organisations depending on the industry it's in, size of the company, nature of the product and so on. I've seen product managers who are mainly responsible for product delivery and product managers who are mainly responsible to setting a strategic direction but not necessarily in product delivery. The variety in the role makes it difficult to standardise product manager's skillsets but regardless of where you work, there are underlying qualities that differentiate a product manager from a great product manager.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+One of my favourite product management books is called 'Inspired' by Marty Cagan. In his book, Marty talks about three types of product managers:
 
-## A little history
+1. A product manager who likes to escalate all decision making to a CEO or the senior management. Marty describes these type of product managers as the *'backlog administrator'* - they simply manage the product backlog and works with the delivery team on execution. I see Certified Scrum Product Owners often falls into this category - obviously not all but many do.
+2. A product manager who likes to escalate decision making to a group of stakeholders. Marty describes these type of product managers as the *'roadmap administrator'* - they are seeking design by committee to prioritise the roadmap features. From what I have experienced design by committee doesn't work because you end up with a mesh mash of ideas and a very mediocre outcome.
+3. A product manager who can make decisions and is accountable for the outcomes. Marty describes these types of product managers as the *'real product managers'* - they have a deep understanding of the customer, data, industry knowledge and their business. I see this group of product managers making data driven decisions and understand both customer and business needs.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+A product manager's role is so much more than managing JIRA tickets, running scrum meetings and facilitating stakeholder meetings. It requires strong leadership skills and business acumen. A great product manager understands customer needs and is able to create value for customers while also create value for the business. A great product manager, in my view, is someone who is able to empower the cross functional team members to create and deliver a great product that solves customer problems while ensuring the business objectives are met.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+What do you think?
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Julia, the product gal
