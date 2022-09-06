@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 7 Things to avoid doing as a Product Manager
+title: 7 Things to avoid as a Product Manager
 date: 2022-08-26T16:04:10.000Z
 description: I've written a few blogs about what makes a successful Product
   Manager, best practices and thought leadership from various product
